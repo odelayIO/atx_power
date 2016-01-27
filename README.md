@@ -18,6 +18,7 @@ This design is a passive USB power supply, meaning this design directly connects
 ## Assembly
 
 PCB Layout Design
+
 ![ PCB](http://odelayio.github.io/atx_power/images/pcb.jpg)
 
 I had an old ATX Power Supply, so I just used this one.  This ATX Power Supply cost around $15 on Amazon.com
