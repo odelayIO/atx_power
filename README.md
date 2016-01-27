@@ -18,23 +18,23 @@ This design is a passive USB power supply, meaning this design directly connects
 ## Assembly
 
 PCB Layout Design
-![PCB](http://odelayio.github.io/atx_power/images/pcb.jpg)
+![ PCB](http://odelayio.github.io/atx_power/images/pcb.jpg)
 
 I had an old ATX Power Supply, so I just used this one.  This ATX Power Supply cost around $15 on Amazon.com
-![Step 1](http://odelayio.github.io/atx_power/images/1.jpg)
+![ Step 1](http://odelayio.github.io/atx_power/images/1.jpg)
 
 This is the ATX Power Supply with the cover off.  As you can see, there is room in this ATX Power Supply to fit the PCB.
-![Step 2](http://odelayio.github.io/atx_power/images/2.jpg)
+![ Step 2](http://odelayio.github.io/atx_power/images/2.jpg)
 
 This design doesn't use an ATX connect to save money on the BOM. So I trimmed the wires to the desired length.
-![Step 3](http://odelayio.github.io/atx_power/images/3.jpg)
+![ Step 3](http://odelayio.github.io/atx_power/images/3.jpg)
 
 Solder the ATX wires to the designated power rail of the PCB.  The voltage is labeled on the silkscreen.
-![Step 4](http://odelayio.github.io/atx_power/images/4.jpg)
+![ Step 4](http://odelayio.github.io/atx_power/images/4.jpg)
 
 Modified the ATX Power Supply, so the PCB can be mounted
-![Step 5](http://odelayio.github.io/atx_power/images/5.jpg)
+![ Step 5](http://odelayio.github.io/atx_power/images/5.jpg)
 
 Fully assembled 15 Port USB Power Supply.  
-![Step 6](http://odelayio.github.io/atx_power/images/6.jpg)
+![ Step 6](http://odelayio.github.io/atx_power/images/6.jpg)
 
