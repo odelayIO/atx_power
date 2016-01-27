@@ -1,4 +1,4 @@
-# 15 Port USB Power Supply using an COTS ATX Power Supply
+# 15 Port USB Power Supply using an ATX Power Supply
 
 ## Problem Statement
 I’m continuously using all of my wall outlets to plug-in a USB wall wart power supply to use for all of my development boards (e.g. Raspberry Pi, Arduino, etc).  Over time I needed two 6 port power strips just to have enough outlets for the USB wall wart.  To address this issue, I designed a very simple 15 Power USB power supply using an ATX Power Supply.
@@ -12,9 +12,12 @@ This design is a passive USB power supply, meaning this design directly connects
 | USB Connector | 3 Stack USB          | Mouser      | $4.24 | [Link](http://www.mouser.com/Search/ProductDetail.aspx?R=33UBAR-TSN1Rvirtualkey63110000virtualkey706-33UBAR-TSN1) |
 | Binding Post  | For the power supply | Sparkfun    | $0.35 | [Link](https://www.sparkfun.com/products/9739)                                                                    |
 | Fuse Holder   | Fuse Clip 5mm        | Sparkfun    | $0.25 | [Link](https://www.sparkfun.com/products/9773)                                                                    |
+| PCB           | 15 Port USB          | DirtyPCBs   | $25   | [Link](https://dirtypcbs.com)                                                                                     |
 
 
 ## Assembly
+PCB Layout Design
+![PCB](http://odelayio.github.io/atx_power/images/pcb.jpg)
 
 I had an old ATX Power Supply, so I just used this one.  This ATX Power Supply cost around $15 on Amazon.com
 ![Step 1](http://odelayio.github.io/atx_power/images/1.jpg)
